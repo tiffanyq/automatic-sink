@@ -28,7 +28,7 @@ function windowResized() {
 function draw() {
   background(255);
   image(tap, window.innerWidth/2 - 160, 60);
-  text("🤚✋", mouseX, mouseY);
+  text("🤚✋", mouseX-HAND_SIZE, mouseY+HAND_SIZE/3);
   renderWater();
 }
 
