@@ -13,6 +13,5 @@ html, body {
 
 #text {
   font-size: 2em;
-  margin: 0 auto;
-  display: flex;
+  text-align: center;
 }
