@@ -2,7 +2,7 @@ const FRAME_RATE = 30;
 const HAND_SIZE = 144;
 const HAND_MOVEMENT_RADIUS = 160;
 const HAND_OFFSET = 4;
-const TAP_TIME_ON = 4;
+const TAP_TIME_ON = 3;
 
 let tapX;
 let tapY;
